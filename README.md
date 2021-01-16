@@ -1,2 +1,2 @@
-# discord-bot-get-images
-Discord Bot - Get Images
+# discord-bot
+Discord Bot
